@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823046125367",
+    "project_id": "signaling-865f8",
+    "storage_bucket": "signaling-865f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823046125367:android:f917251b571cf727770cb2",
+        "android_client_info": {
+          "package_name": "com.example.milestone1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklsWbxJAr6oTueHZY_mKf-li0pFCrah0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
